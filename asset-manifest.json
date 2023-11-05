@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chung-project/static/css/main.aef5c14e.css",
+    "main.js": "/chung-project/static/js/main.4b61fe38.js",
+    "static/media/thai.png": "/chung-project/static/media/thai.1dc4130c459662691c01.png",
+    "static/media/workImg.jpeg": "/chung-project/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/logo.png": "/chung-project/static/media/logo.322076fd942fd9fb6591.png",
+    "static/media/react.png": "/chung-project/static/media/react.37ea74e86fe4f4703a1e.png",
+    "static/media/mongo.png": "/chung-project/static/media/mongo.8202ca4e7a6247a0cf64.png",
+    "static/media/node.png": "/chung-project/static/media/node.b5dbbba1e31045482b6b.png",
+    "static/media/html.png": "/chung-project/static/media/html.7f1d148007ee2b143e27.png",
+    "static/media/css.png": "/chung-project/static/media/css.8f8a7b9920fae6ba54c9.png",
+    "static/media/tailwind.png": "/chung-project/static/media/tailwind.c06b534be43a2dc99971.png",
+    "index.html": "/chung-project/index.html",
+    "main.aef5c14e.css.map": "/chung-project/static/css/main.aef5c14e.css.map",
+    "main.4b61fe38.js.map": "/chung-project/static/js/main.4b61fe38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aef5c14e.css",
+    "static/js/main.4b61fe38.js"
+  ]
+}
